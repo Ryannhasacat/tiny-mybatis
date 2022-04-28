@@ -1,0 +1,3 @@
+# Project exclude paths
+/base-freamwork/target/
+/session-mapper-registry/target/
