@@ -10,9 +10,10 @@
     <version>1.0.0</version>
 
     <modules>
-        <module>base-freamwork</module>
-        <module>session-mapper-registry</module>
-        <module>xml-config-builder</module>
+        <module>01-base-framework</module>
+        <module>02-session-mapper-registry</module>
+        <module>03-xml-config-builder</module>
+        <module>04-datasource-parse-build</module>
     </modules>
 
     <properties>
